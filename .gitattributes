@@ -1,6 +1,0 @@
-# Force LF in the repo and CRLF in Windows working copies
-* text=auto
-
-# For files that must keep LF
-*.sh       text eol=lf
-*.yml      text eol=lf
